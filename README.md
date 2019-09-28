@@ -14,7 +14,11 @@ After that, if you are on Windows, you can execute `compile.bat`. Otherwise exec
 
 You will find `sprites.t3x` (The Spritesheet result) inside the `out` folder.
 
-When you're finished, place the newly created file onto your SD Card at `sdmc:/LeafEdit/SpriteSheets/`.
+Create a Folder with a name you like and place `sprites.t3x` and `sheet.ini` inside it.
+
+The Folder should be placed at `sdmc:/LeafEdit/SpriteSheets/`.
+
+The `sheet.ini` File is placed at the `out` Folder, you can edit the Colors of it, if you like to have other Text Colors.
 
 ## Credits
 
