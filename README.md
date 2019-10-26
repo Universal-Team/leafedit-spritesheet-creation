@@ -1,5 +1,7 @@
 These are the Spritesheet Creation Instructions for LeafEdit. [WIP]
 
+**This is not supported by LeafEdit anymore, but it can still be used to create Spritesheets for other Apps for example.**
+
 ## Requirements:
 
 - Tex3ds.
